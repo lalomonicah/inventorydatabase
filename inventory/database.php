@@ -2,7 +2,7 @@
 // Connection details for MAMP
 $host = "localhost";
 $user = "root";
-$password = "root";
+$password = "";
 $database = "inventory_db";
 
 // show friendly messages on errors instead of crashing the page
